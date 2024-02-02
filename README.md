@@ -1,4 +1,6 @@
 # React + Vite
+hey! ven a ranquear tu anime favorito :D
+ https://erickcastroo.github.io/Drag-and-Drop-React-App/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
