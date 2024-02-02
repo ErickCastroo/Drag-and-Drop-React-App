@@ -43,7 +43,7 @@ export const usePersonas = () => {
             img: 'https://i0.wp.com/josegeek.com/wp-content/uploads/2023/10/Frieren-Mas-alla-del-final-del-viaje.jpg?resize=683%2C1024&ssl=1' 
         },
         {
-            nombre: 'Jujutsu Kaisenkomi',
+            nombre: 'Jujutsu Kaisen',
             id: 9,
             img: 'https://pbs.twimg.com/media/FAdlmmHWEAcfMFk?format=jpg&name=4096x4096' 
         },
